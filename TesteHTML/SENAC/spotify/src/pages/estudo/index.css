@@ -1,0 +1,58 @@
+
+.faixa-2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+
+  height: 100vh;
+  background-image: url('../../assets/images/bursts-tablet.svg');
+  background-color: rgb(41, 65, 171);
+  background-size: 160%;
+  background-position: -350px;
+
+}
+
+.faixa-2 h1{
+  width: 800px;
+  text-align: center;
+  line-height: 100px;
+  font-size: 104px;
+  color: #1ed760;
+  font-family: Spotify-Black;
+  letter-spacing: -5px;
+
+  margin-bottom: 30px;
+  
+
+}
+
+.faixa-2 p{
+  width: 400px;
+  text-align: center;
+  font-size: 18px;
+  color: #1ed760;
+  font-family: Spotify-Book;
+  margin-bottom: 30px;
+
+}
+
+.faixa-2 a{
+  background-color: #1ed760;
+  border-radius: 500px;
+
+  font-size: 14px;
+  font-family: Spotify-Bold;
+
+  padding: 15px 30px;  
+  color: #2941AB; 
+
+  text-transform: uppercase;
+
+}
+
+.faixa-2 a:hover{
+  background-color: #54e687;
+  transform: scale(1.05);  
+
+}

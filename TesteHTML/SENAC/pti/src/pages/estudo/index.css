@@ -1,0 +1,62 @@
+
+.dados-pessoais{
+  background-color: rgb(158, 158, 158);
+  text-align: left;
+  line-height: 5px;
+  padding: 5px 5px;
+}
+.dados-pessoais h1{
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px 0px;
+}
+.dados-pessoais img{
+  position:fixed;
+  left: 1100px;
+
+}
+.dados-pessoais p{
+  font-size: 16px;
+
+}
+
+.resumo{
+  background-color: rgb(216, 216, 216);
+  padding: 5px 5px;
+}
+.resumo h2{
+  font-weight: bold;
+}
+
+.formacao{
+  background-color: rgb(158, 158, 158);
+  padding: 5px 5px;
+}
+.formacao h2{
+  font-weight: bold;
+
+}
+
+.formacao h3{
+  font-weight:bold;
+}
+
+.experiencia{
+  background-color: rgb(216, 216, 216);
+  padding: 5px 5px;
+}
+.experiencia h2{
+  font-weight: bold;
+}
+.experiencia h3{
+  font-weight: bold;
+}
+
+.informacoes{
+  background-color: rgb(158, 158, 158);
+  padding: 5px 5px;
+}
+.informacoes h2{
+  font-weight: bold;
+
+}

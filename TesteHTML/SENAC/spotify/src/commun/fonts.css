@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Spotify-Black';
+  src: url('/src/assets/fonts/CircularSpUIv3T-Black.woff2');
+}
+
+@font-face {
+  font-family: 'Spotify-Bold';
+  src: url('../assets/fonts/CircularSpUIv3T-Bold.woff2');
+}
+
+@font-face {
+  font-family: 'Spotify-Book';
+  src: url('../assets/fonts/CircularSpUIv3T-Book.woff2');
+}
