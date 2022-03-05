@@ -1,4 +1,7 @@
 * {
 	font-weight: lighter;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	
+	margin: 0px;
+	box-sizing: border-box;
 }
