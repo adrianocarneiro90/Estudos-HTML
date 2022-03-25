@@ -1,0 +1,42 @@
+.faixa-2{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+padding: 1em 0em;
+background-color: #ffffff;
+
+}
+
+.faixa-2 > div{
+margin: 3.5em;
+}
+
+.imagem-2{
+
+}
+
+.texto-2{
+display: flex;
+flex-direction: column;
+
+width: 23em;
+
+}
+
+.texto-2 h1{
+  font-family:'Discord1';
+  font-size: 3em;
+  line-height: 1,2em;  
+
+  color: black;
+  margin-bottom: 0.8em;
+}
+.texto-2 p{
+  font-family: 'Discord5';
+  font-size: 1.2em;
+  line-height: 1.5em;
+  color: black;
+
+}
